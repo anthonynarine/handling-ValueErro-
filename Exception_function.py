@@ -1,5 +1,5 @@
 
-# let make a function from our get in program (see esceptions.py)
+# lets make a function from our get in program (see esceptions.py)
 
 def main():
     x = get_int("What's x? ")
